@@ -17,7 +17,12 @@ It is an opensource project actively being developed updated frequently with add
 
 ## Getting Started
 
-[![](.gitbook/assets/invite-banner.png)](https://discordapp.com/oauth2/authorize?client_id=390176338729893889&scope=bot&permissions=8)
+[![](.gitbook/assets/invite-banner%20%282%29.png)](https://discordapp.com/oauth2/authorize?client_id=390176338729893889&scope=bot&permissions=8)
+
+Go through the above link to invite the Cosmos hosted by us to your server. The actual invite URL of Cosmos bot with default administrator permissions is:  
+`https://discordapp.com/oauth2/authorize?client_id=390176338729893889&scope=bot&permissions=8`
+
+Another option would be to self host Cosmos bot on your own server which lets you customize it whatever the way you want. For more help with self hosting, check 
 
 ## Contributing
 

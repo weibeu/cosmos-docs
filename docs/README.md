@@ -17,7 +17,7 @@ It is an opensource project actively being developed updated frequently with add
 
 ## Getting Started
 
-[![](.gitbook/assets/invite-banner%20%281%29.png)](https://discordapp.com/oauth2/authorize?client_id=390176338729893889&scope=bot&permissions=8)
+[![](.gitbook/assets/invite-banner.png)](https://discordapp.com/oauth2/authorize?client_id=390176338729893889&scope=bot&permissions=8)
 
 ## Contributing
 

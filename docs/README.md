@@ -17,14 +17,25 @@ It is an open source project actively being developed updated frequently with ad
 
 ## Getting Started
 
-[![](.gitbook/assets/invite-banner.png)](https://discordapp.com/oauth2/authorize?client_id=390176338729893889&scope=bot&permissions=8)
+[![](.gitbook/assets/invite-banner%20%282%29.png)](https://discordapp.com/oauth2/authorize?client_id=390176338729893889&scope=bot&permissions=8)
 
-Go through the above link to invite the Cosmos hosted by us to your server. The actual invite URL of Cosmos bot with default administrator permissions is:  
+Go through the above link to invite Cosmos which is hosted by us to your server. The actual invite URL of Cosmos bot with default administrator permissions is:  
 `https://discordapp.com/oauth2/authorize?client_id=390176338729893889&scope=bot&permissions=8`
 
-Another option would be to self host Cosmos bot on your own server which lets you customize it whatever the way you want. For more help with self hosting, check 
+Another option would be to self host Cosmos bot on your own server which lets you customize it whatever the way you want. For more help with self hosting, check full step by step guide for [self hosting](getting-started.md#self-hosting).
+
+## The Community
+
+For any kind of help and support regarding Cosmos or anything else, you're welcome to [join our discord server.](https://discord.gg/UYAJX3W)
 
 ## Contributing
 
-## License
+To contribute to the development of Cosmos bot, feel free to [create a new pull request on github](https://github.com/thec0sm0s/cosmos-discord-bot/compare).
+
+## Donate
+
+Hosting Cosmos bot requires efficient and expensive servers which keeps Cosmos bot online with least downtimes. Your support will encourage and help us a lot with the constant development process and power the servers to keep it up online all of the times. 💛
+
+* [Patreon](https://www.patreon.com/__thecosmos)
+* [PayPal](https://paypal.me/thecosmoss/)
 

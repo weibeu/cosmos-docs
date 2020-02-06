@@ -26,6 +26,8 @@ Another option would be to self host Cosmos bot on your own server which lets yo
 
 ## The Community
 
+<iframe src="https://discordapp.com/widget?id=390134592507609088&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
 For any kind of help and support regarding Cosmos or anything else, you're welcome to [join our discord server.](https://discord.gg/UYAJX3W)
 
 ## Contributing

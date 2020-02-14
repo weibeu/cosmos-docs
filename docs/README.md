@@ -37,8 +37,8 @@ To contribute to the development of Cosmos bot, feel free to [create a new pull 
 
 Hosting Cosmos bot requires efficient and expensive servers which keeps Cosmos bot online with least downtimes. Your support will encourage and help us a lot with the constant development process and power the servers to keep it up online all of the times. 💛
 
-* [**Patreon**](https://www.patreon.com/__thecosmos)\*\*\*\*
-* \*\*\*\*[**PayPal**](https://paypal.me/thecosmoss/)\*\*\*\*
+* [Patreon](https://www.patreon.com/__thecosmos)
+* [PayPal](https://paypal.me/thecosmoss/)
 
 {% hint style="info" %}
 [Visit our community](https://discordapp.com/invite/UYAJX3W) to claim your rewards and perks you get for your support.

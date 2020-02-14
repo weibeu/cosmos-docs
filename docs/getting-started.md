@@ -8,13 +8,7 @@
 
 `https://discordapp.com/oauth2/authorize?client_id=390176338729893889&scope=bot&permissions=8`
 
-
-
 ## Self Hosting
 
-
-
 If you're willing to run your own custom instance of Cosmos bot, you can easily do so by getting its source code and performing a quick setup by installing Python and other dependencies.
-
-#### 
 

@@ -79,7 +79,7 @@ Not important but config files inside this directory or category determines the 
 ### Starting the bot
 
 Use Python to run the `run.py` file to start the Cosmos bot and in separate process run `wsgi.py` file to start the Image Processor server and make sure the port `5000` is free which is used as default.  
-On Linux machines, you can use following commands.
+On Linux machines, you can use the following commands.
 
 ```bash
 # Terminal 1

@@ -2,24 +2,7 @@
 
 ## Self Hosting
 
-Becoming a super hero is a fairly straight forward process:
+If you're willing to run your own custom instance of Cosmos bot, you can easily do so by getting its source code and performing a quick setup by installing Python and other dependencies.
 
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-
+#### 
 

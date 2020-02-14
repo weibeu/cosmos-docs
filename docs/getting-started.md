@@ -68,7 +68,31 @@ Emotes are given in format `:name_of_emote:. Animated emotes are prefixed with a
 
 `a:square_load:` `a:yellow_square_load:` `:next:` `:prev:` `:close:` `:forward:` `:backward:` `:return_:` `:check:` `:timer:` `:coins:`
 
-* foods
+* **foods**
 
 `:tomato_garlic:` `:doughnut:` `:watermelon:` `:pizza:` `:fallen_cone:` `:strawberry:` `:cherry:` `:grapes:` `:eggplant:` `:chili:` `:mushroom:` `:popcorn:` `:lollipop:` `:pancake:` `:honey:` `:orange:` `:jam:` `:cheese:` `:burger:` `:icecream:`
+
+#### Theme Configs
+
+Not important but config files inside this directory or category determines the default appearance of the Cosmos bot.
+
+### Starting the bot
+
+Use Python to run the `run.py` file to start the Cosmos bot and in separate process run `wsgi.py` file to start the Image Processor server and make sure the port `5000` is free which is used as default.  
+On Linux machines, you can use following commands.
+
+```bash
+# Terminal 1
+$ python3.8 run.py
+```
+
+```bash
+# Terminal 2
+$ cd image-processor
+$ gunicorn -b 127.0.0.1:5000 "app:create_app()"
+```
+
+{% hint style="info" %}
+You can also use services or containers to run the Cosmos bot and Image Processor server.
+{% endhint %}
 

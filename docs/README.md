@@ -10,6 +10,7 @@ It is an open source project actively being developed updated frequently with ad
 * Text and voice Levelling with assignable roles or points as rewards for different levels.
 * Role Shop to purchase roles using earned points.
 * React to get roles.
+* Direct and channel based customized Welcome Messages.
 * Welcome Banners to welcome new members using custom static or GIF images.
 * Moderation plugin including member and server logs for major events.
 * Auto Moderation system based on triggers and different actions.

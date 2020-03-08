@@ -3,22 +3,24 @@
 * [Cosmos - Discord Bot](README.md)
 * [Getting Started](getting-started.md)
 
+## -- Galaxies -- <a id="greater-than-greater-than-galaxies"></a>
+
 ## GUILD
 
 * [Levels](levels.md)
+* [Reactor](reactor.md)
+* [Starboard](starboard.md)
+* [Reaction Roles](reaction-roles.md)
+* [Functions Permissions](functions-permissions.md)
 * [Role Shop](role-shop/README.md)
   * [Points](role-shop/points.md)
   * [Settings](role-shop/settings.md)
-* [Reactor](reactor.md)
 * [Welcome](welcome/README.md)
   * [Banner](welcome/banner.md)
   * [Message](welcome/message.md)
-* [Starboard](starboard.md)
-* [Reaction Roles](reaction-roles.md)
 * [Guild Settings](guild-settings/README.md)
   * [Theme](guild-settings/theme.md)
   * [Prefix](guild-settings/prefix.md)
-* [Functions Permissions](functions-permissions.md)
 
 ## MODERATION
 
@@ -41,4 +43,8 @@
 
 * [Tags](tools/tags.md)
 * [Haste Bin](tools/haste-bin.md)
+
+## -- Extras --
+
+* [FAQs](extras/faqs.md)
 

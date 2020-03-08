@@ -8,19 +8,19 @@
 ## GUILD
 
 * [Levels](levels.md)
-* [Reactor](reactor.md)
-* [Starboard](starboard.md)
-* [Reaction Roles](reaction-roles.md)
-* [Functions Permissions](functions-permissions.md)
-* [Role Shop](role-shop/README.md)
-  * [Points](role-shop/points.md)
-  * [Settings](role-shop/settings.md)
 * [Welcome](welcome/README.md)
   * [Banner](welcome/banner.md)
   * [Message](welcome/message.md)
+* [Role Shop](role-shop/README.md)
+  * [Points](role-shop/points.md)
+  * [Settings](role-shop/settings.md)
+* [Reaction Roles](reaction-roles.md)
+* [Reactor](reactor.md)
+* [Starboard](starboard.md)
 * [Guild Settings](guild-settings/README.md)
   * [Theme](guild-settings/theme.md)
   * [Prefix](guild-settings/prefix.md)
+* [Functions Permissions](functions-permissions.md)
 
 ## MODERATION
 

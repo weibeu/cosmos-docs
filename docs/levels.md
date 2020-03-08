@@ -6,8 +6,6 @@ description: >-
 
 # Levels
 
-\*\*\*\*
-
 ## levels
 
 Displays current level and experience points.

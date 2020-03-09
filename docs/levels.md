@@ -21,7 +21,7 @@ Usage:
 ### reward
 
 Displays any rewards set for specified or all of the levels.  
-Optionally pass \`text\` to view Text Levels rewards and \`voice\` for Voice Levels rewards.
+Optionally pass `text` to view Text Levels rewards and `voice` for Voice Levels rewards.
 
 ```yaml
 Aliases:

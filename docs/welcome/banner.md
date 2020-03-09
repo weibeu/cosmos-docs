@@ -27,3 +27,21 @@ Usage:
 ;welcome banner set <banner_url> [channel] <text>
 ```
 
+#### enable
+
+Enable sending welcome banners in channel.
+
+```yaml
+Usage:
+;welcome banner enable 
+```
+
+#### disable
+
+Disable sending welcome banner in channel.
+
+```yaml
+Usage:
+;welcome banner disable
+```
+

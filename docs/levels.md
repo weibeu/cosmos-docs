@@ -38,7 +38,7 @@ You can set one or multiple roles and optionally Guild Points as rewards.
 
 ```yaml
 Usage:
-;level reward set <level> [channel=text] [points=0] <roles ...>
+;level reward set <level> [channel=text] [points=0] <roles...>
 ```
 
 #### remove

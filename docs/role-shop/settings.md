@@ -26,5 +26,25 @@ Usage:
 ;roleshop remove [role]
 ```
 
+### modify
 
+Make changes to existing Role Shop role.
+
+```yaml
+Aliases:
+- edit
+```
+
+#### points
+
+Modify points required to redeem or purchase role.  
+It displays an interactive reaction based menu to choose your desired role if it's not specified.
+
+```yaml
+Aliases:
+- point
+
+Usage:
+;roleshop modify points <new_points> [role]
+```
 

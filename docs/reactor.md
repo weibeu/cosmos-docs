@@ -42,5 +42,27 @@ Usage:
 ;reactor remove [channel]
 ```
 
+### enable
 
+Enable reactor if it was set of current or specified channel.
+
+```yaml
+Aliases:
+- on
+
+Usage:
+;reactor enable [channel]
+```
+
+### disable
+
+Disable reactor from current or specified channel.
+
+```yaml
+Aliases:
+- off
+
+Usage:
+;reactor disable [channel]
+```
 

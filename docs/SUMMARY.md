@@ -2,6 +2,7 @@
 
 * [Cosmos - Discord Bot](README.md)
 * [Getting Started](getting-started.md)
+* [Galaxy Reference](galaxy-reference.md)
 
 ## -- Galaxies -- <a id="greater-than-greater-than-galaxies"></a>
 

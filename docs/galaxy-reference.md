@@ -1,2 +1,2 @@
-# Galaxy Reference
+# Reference
 

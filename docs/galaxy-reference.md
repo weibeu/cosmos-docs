@@ -2,6 +2,8 @@
 
 ## All Commands
 
+The following table displays entire list of primary commands and their basic syntax to use. Click on the command to know more about it including their **sub-commands**.
+
 | Command | Short Description | Usage |
 | :---: | :---: | :---: |
 | [ban](https://cosmos.thecosmos.space/moderation/moderation#ban) | Bans specified member from the server. | `;ban <member> [reason]` |

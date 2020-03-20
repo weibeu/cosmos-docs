@@ -1,6 +1,40 @@
 # Reference
 
-## All Commands
+Cosmos bot uses modular approach for each of its functions and commands. Each of the Primary Commands are categorized into different sub-commands based on their usage. A Plugin bundles many of these commands revolving around any of the specific function. Multiple plugins forms a Galaxy.
+
+## The Functions Hierarchy
+
+**Galaxy** &gt; **Plugin** &gt; **Command** &gt; **Sub-Command**
+
+### Galaxies
+
+* GUILD
+* MODERATION
+* PROFILE
+* SETTING
+* TOOLS
+
+### Plugins
+
+* [AdministratorSettings](settings/administrator-settings.md)
+* [AutoModeration](moderation/auto-moderation.md)
+* [Economy](profile/economy.md)
+* [FunctionsPermissions](functions-permissions.md)
+* [GuildSettings](guild-settings/)
+* [HasteBin](tools/haste-bin.md)
+* [Levels](levels.md)
+* [Logger](moderation/logger.md)
+* [Marriage](profile/marriage.md)
+* [Moderation](moderation/moderation.md)
+* [Profile](profile/profile.md)
+* [ReactionRoles](reaction-roles.md)
+* [Reactor](reactor.md)
+* [RoleShop](role-shop/)
+* [Starboard](starboard.md)
+* [Tags](tools/tags.md)
+* [Welcome](welcome/)
+
+### **Primary** Commands
 
 The following table displays entire list of primary commands and their basic syntax to use. Click on the command to know more about it including their **sub-commands**.
 

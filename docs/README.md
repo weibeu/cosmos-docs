@@ -28,7 +28,7 @@ Another option would be to self host Cosmos bot on your own server which lets yo
 
 ## The Community
 
-For any kind of help and support regarding Cosmos or anything else, you're welcome to [join our discord server.](https://discord.gg/UYAJX3W)
+For any kind of help and support regarding Cosmos or anything else, you're welcome to [join our discord server](https://discord.gg/7ChSGn4).
 
 ## Contributing
 
@@ -42,6 +42,6 @@ Hosting Cosmos bot requires efficient and expensive servers which keeps Cosmos b
 * [PayPal](https://paypal.me/thecosmoss/)
 
 {% hint style="info" %}
-[Visit our community](https://discordapp.com/invite/UYAJX3W) to claim your rewards and perks you get for your support.
+[Visit our community](https://discord.gg/7ChSGn4) to claim your rewards and perks you get for your support.
 {% endhint %}
 

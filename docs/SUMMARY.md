@@ -48,4 +48,5 @@
 ## -- Extras --
 
 * [FAQs](extras/faqs.md)
+* [Donors and Supporters](extras/donors-and-supporters.md)
 

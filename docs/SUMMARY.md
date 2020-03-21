@@ -32,7 +32,7 @@
 ## PROFILE
 
 * [Profile](profile/profile.md)
-* [Levels](profile/levels.md)
+* [\_Levels](profile/levels.md)
 * [Economy](profile/economy.md)
 * [Marriage](profile/marriage.md)
 

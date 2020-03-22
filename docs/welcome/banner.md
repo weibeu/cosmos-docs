@@ -6,11 +6,12 @@ description: >-
 
 # Banner
 
-### banner
-
-Displays previously configured welcome banner.  
 Welcome Banner is PNG or GIF image file which is generated and sent when any member joins the server.  
 It can be customized by adding a custom text message which is written over it. Moreover the border color can be customized by setting a new theme color from Theme Settings.
+
+### banner
+
+Displays previously configured welcome banner.
 
 ```yaml
 Usage:
